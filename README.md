@@ -1,4 +1,4 @@
-# Calcul Distribué de la Persistance des Nombres ( THREAD )
+# Calcul Distribué de la Persistance des Nombres (THREAD)
 ## Description
 Cette application permet de distribuer le calcul de la persistance multiplicative des nombres sur plusieurs machines afin de bénéficier d'une grande capacité de calcul. La persistance multiplicative d'un nombre est le nombre de fois que vous devez multiplier les chiffres d'un nombre jusqu'à obtenir un seul chiffre.
 
